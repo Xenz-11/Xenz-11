@@ -5,8 +5,4 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Xenz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Xenz Github Stats">
-
-</br>
-
-
+![Xenz Github Stats](https://github-readme-stats.vercel.app/api?username=Xenz-11&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
