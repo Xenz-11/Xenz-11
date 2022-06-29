@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <br>
-
+# Github Stats
 ![Xenz Github Stats](https://github-readme-stats.vercel.app/api?username=Xenz-11&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
@@ -12,3 +12,7 @@
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
+# Github repository
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Xenz-11&repo=PackageTemplate&show_owner=true)](https://github.com/Xenz-11/prank.py)
