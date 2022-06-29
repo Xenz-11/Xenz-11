@@ -15,4 +15,4 @@
 # Github repository
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Xenz-11&repo=PackageTemplate&show_owner=true)](https://github.com/Xenz-11/prank)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Xenz-11&repo=prank&show_owner=true)](https://github.com/Xenz-11/prank)
