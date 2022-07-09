@@ -17,13 +17,11 @@
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 
-## MY SOSIAL MEDIA 
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Xenz-11)
+## MEDIA SOSIAL SAYA
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/RianFrmnsyhXD)
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/inu.pembangkang.7)
 [![](https: //img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/xenz_ganz) 
-[![](https://img.shields.io /badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6283138613993?text=Assalamualaikum)
-
-
+[![](https://img.shields.io /badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6283138613993?text=Assalamualaikum+Bang)
 # Github repository
 
 
